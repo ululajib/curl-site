@@ -1,0 +1,19 @@
+{
+  "name": "Curl-Site",
+  "version": "1.0.0",
+  "description": "Curl module for node js. Using curl command.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "curl",
+    "node",
+    "curl"
+  ],
+  "author": "ululajib",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0"
+  }
+}
